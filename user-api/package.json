@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "main": "server.js",
   "type": "commonjs",
-  "license": "MIT",
   "scripts": {
     "dev": "node server.js",
     "build": "echo building user-api"
