@@ -1,0 +1,10 @@
+html, body, #__next {
+  height: 100%;
+}
+
+.table-hover tbody tr:hover{ cursor: pointer; }
+
+/* push content below fixed navbar */
+body {
+  padding-top: 70px;
+}
